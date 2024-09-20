@@ -1,12 +1,12 @@
+import NavBar from "../../components/NavBar1/NavBar"
 
 
 const Home = () => {
   
-    
-
     return (
       <>
-     Hero
+      <NavBar/>
+         Hero    
      </>
     )
   }
